@@ -4,3 +4,7 @@ kerchief
 purse 
 Formals
 Iron Box
+Book Shelf
+Bike
+Super Computer
+White Board
