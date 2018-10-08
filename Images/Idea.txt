@@ -1,3 +1,5 @@
+Should represent different aspects of life.
+
 Memory
 Upbeat
 Skillful 
