@@ -1,59 +1,126 @@
-DISHEVELED
-##########
+1.DISHEVELED
+############
 A person who has his hair uncombed, his shirt untucked and stains on his shirt is an example of someone who would be described as disheveled.
 
 
-1. His bleached hair was disheveled, his eyes squinting at the hall light.
+* His bleached hair was disheveled, his eyes squinting at the hall light.
 
-2. His eyes were red, her red hair wet and disheveled, and she wore a flannel bathrobe and was barefoot.
+* His eyes were red, her red hair wet and disheveled, and she wore a flannel bathrobe and was barefoot.
 
-3. The youth was tall, erect, and had disheveled blond hair.
+* The youth was tall, erect, and had disheveled blond hair.
 
-BAFFLING
-########
+2.BAFFLING
+##########
 impossible to understand; perplexing
 
-1. He walked through the halls quickly, the emerging thoughts in his head baffling him.
+*. He walked through the halls quickly, the emerging thoughts in his head baffling him.
 
-2. The complex puzzle baffled me for several hours before i could connect all the pieces.
+*. The complex puzzle baffled me for several hours before i could connect all the pieces.
 
-3.The woman's confusing testimony left the jury quite baffled.
+*. The woman's confusing testimony left the jury quite baffled.
 
-4. As a serious write, I am baffled by the success of silly novels about teenagers.
+* As a serious write, I am baffled by the success of silly novels about teenagers.
 
-LENIENT
-#######
+3.LENIENT
+#########
 (of a punishment or person in authority) more merciful or tolerant than expected.
 "in the view of the Court the sentence was too lenient"
 
-1. He was as lenient with the offences of the orthodox as he was rigid in supressing heresy and schism.
+* He was as lenient with the offences of the orthodox as he was rigid in supressing heresy and schism.
 
-2.The way was further prepared by a lenient use of the penal laws.
+*The way was further prepared by a lenient use of the penal laws.
 
-3. Phil was not happy about the lenient punishment his son's attacker received.
+* Phil was not happy about the lenient punishment his son's attacker received.
 
-REPULSIVE
-#########
+4.REPULSIVE
+###########
 arousing intense distaste or disgust.
 "a repulsive smell"
 
-1. The repulsive smell of the dead body sent me running from the house.
+* The repulsive smell of the dead body sent me running from the house.
 
-2. As soon as the man sat next to me, I immediately detected his repulsivebody odor and switched seats.
+* As soon as the man sat next to me, I immediately detected his repulsivebody odor and switched seats.
 
-3. Im sorry the idea is so repulsive to you.
+* Im sorry the idea is so repulsive to you.
 
-4. My boss is repulsive not because of her looks but because of her heartless personality.
+* My boss is repulsive not because of her looks but because of her heartless personality.
 
-AUDACIOUS
-#########
+5.AUDACIOUS
+###########
 showing a willingness to take surprisingly bold risks.
 "a series of audacious takeovers"
 
-1. This was a second and a more audacious compromise.
+* This was a second and a more audacious compromise.
 
-2. The plan was audacious, for the English in America outnumbered the French by twenty to one.
+* The plan was audacious, for the English in America outnumbered the French by twenty to one.
  
-3. It was audacious of him to take such action in this situation.
+* It was audacious of him to take such action in this situation.
 
-4. In order to pull off the audacious robbery, the thieves needed both a helicopter and a boat.       
+* In order to pull off the audacious robbery, the thieves needed both a helicopter and a boat.      
+
+
+6.PARRY
+#######
+ward off (a weapon or attack) with a countermove.
+"he parried the blow by holding his sword vertically"
+
+* He parried the thrust of his opponent's sword.
+
+* He parried and then threw a punch.
+
+* She cleverly parried the reporters' questions.
+
+7.PREVELANT
+###########
+widespread in a particular area or at a particular time.
+"the social ills prevalent in society today"
+
+* The custom is prevalent in today's society.
+
+* Instant deaths were especially prevalent among the very poor
+
+* Because of false information, there are four prevalent myths surrounding the president's assassination.
+
+* During the holidays, theft becomes more prevalent in low-income areas.
+
+8.OMINOUS
+#######
+giving the worrying impression that something bad is going to happen; threateningly inauspicious.
+"there were ominous dark clouds gathering overhead"
+
+* The decision is ominous for the future of democracy in the country.
+
+* There was an ominous silence.
+
+
+* There were ominous rumblings from Zimbabwe.
+
+* Because of the ominous music, we knew something bad was about to happen in the movie.
+
+9.INCREDIBLE
+############
+impossible to believe.
+"an almost incredible tale of triumph and tragedy"
+
+* Now we knew we possessed an incredible tool at our fingertips.
+
+* That's an incredible story.
+
+* An incredible act of kindness, a stranger off the street offered to donate a kidney for the ill.
+  
+* Travelling to Africa was an incredible experience that most westeners never get to undertake.
+
+10.OPHTHALMOLOGIST
+##################
+a specialist in the branch of medicine concerned with the study and treatment of disorders and diseases of the eye.
+
+* An ophthalmologist is an doctor who diagnoses and treats eye disorders by medical or surgical means.
+
+* Institute officials say India has only about one ophthalmologist for every 1,20,000 people.
+
+* Eye injuries should be irrigated copiously and referred to an opthalmologist.
+
+* Check with your ophthalmologist to ensure that you don't have a sty which is causing the inflammation, or any type of infection.
+
+ 
+ 
