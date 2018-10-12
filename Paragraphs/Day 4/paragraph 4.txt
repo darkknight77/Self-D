@@ -1,1 +1,40 @@
-ha 
+Electrical Charge
+-----------------
+Electricity is the movement of electrons. Electrons create charge, which we can harness to do work. Your lightbulb, your stereo, your phone, etc., are all harnessing the movement of the electrons in order to do work. They all operate using the same basic power source: the movement of electrons.
+
+The three basic principles for this tutorial can be explained using electrons, or more specifically, the charge they create:
+
+Voltage is the difference in charge between two points.
+Current is the rate at which charge is flowing.
+Resistance is a material’s tendency to resist the flow of charge (current).
+So, when we talk about these values, we’re really describing the movement of charge, and thus, the behavior of electrons. A circuit is a closed loop that allows charge to move from one place to another. Components in the circuit allow us to control this charge and use it to do work.
+
+Georg Ohm was a Bavarian scientist who studied electricity. Ohm starts by describing a unit of resistance that is defined by current and voltage. So, let’s start with voltage and go from there.
+
+----------------------------------------------------------------------------------------------------------------------
+
+Electrical Charge
+-----------------
+
+Electricity is the movement of elctrons. Electrons create charge, which we can harness to do work. Your light bulbs, your stereo, your phone, etc.. are all harnessing the movement of elctrons in order to do work. They all use the same basic power source: the movement of electrons.
+
+Voltage is the difference in charge between two points.
+Current is the rate at which charge is flowiing.
+Resistance is the material's tendency to resist the flow of charge(current).
+
+A circuit is a closed loop in which the charge can move freely from one point to another. The components in the circuit help us to control the charge and use it to do work.
+
+Georg Ohm was a bavarian scientist who studied electricity.   
+
+
+Electrical Charge
+-----------------
+Electricity is the movement of electrons. Electrons create charge, which we can harness to do work. Your lightbulb, your stereo, your phone, etc.., are all harnessing the movement of electrons in order to do work. They all operate using the same basic power source: the movement of electrons.
+
+Voltage is the differnce in charge between two points.
+Current is the rate at which charge is flowing.
+Resistance is the material's tendency to resist the flow of charge(current).
+
+A circuit is a closed loop that allows the charge to move from one point to another. The components in  the circuit allow us to control the charge and use it to do work.
+
+Georg Ohm was a bavarian scientist, who studied electricty.     
