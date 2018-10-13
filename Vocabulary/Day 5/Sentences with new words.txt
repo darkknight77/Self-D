@@ -21,7 +21,7 @@ DEMAGOGUE - political agitator, agitator, firebrand, rabble-rouser, soapbox orat
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-SUPERSEDE
+1.SUPERSEDE
 #########
 take the place of (a person or thing previously in authority or use); supplant.
 "the older models of car have now been superseded"
@@ -31,7 +31,9 @@ take the place of (a person or thing previously in authority or use); supplant.
 * The theory has been superseded by more recent research.
 * In the future, robots will supersede human beings for very heavy work.
 
-ANONYMOUS
+---------------------------
+
+2.ANONYMOUS
 #########
 of a person) not identified by name; of unknown name.
 "the donor's wish to remain anonymous"
@@ -41,7 +43,9 @@ of a person) not identified by name; of unknown name.
 * Galloway was a voluminous, though, for the most art, an anonymous writer.
 * Sometimes anonymous cards are sent and the receiver has to guess who the sender might be.
 
-AUTOPSY
+---------------------------
+
+3.AUTOPSY
 #######
 a post-mortem examination to discover the cause of death or the extent of disease.
 "a Home Office pathologist carried out the autopsy"
@@ -51,7 +55,9 @@ a post-mortem examination to discover the cause of death or the extent of diseas
 * Clouser said he was awaiting autopsy results to confirm the observations.
 * The autopsy revealed that he had been poisoned.
 
-INDEFATIGABLE
+---------------------------
+
+4.INDEFATIGABLE
 #############
 (of a person or their efforts) persisting tirelessly.
 "an indefatigable defender of human rights"
@@ -61,7 +67,9 @@ INDEFATIGABLE
 * His indefatigable spirit helped him to cope with his illness.
 * That kind of instinctive, indefatigable willingness to engage is a gift, Mr Caen, as unteachable as it is unbuyable.
 
-ATHEIST
+---------------------------
+
+5.ATHEIST
 #######
 a person who disbelieves or lacks belief in the existence of God or Gods.
 "he is a committed atheist"
@@ -71,7 +79,9 @@ a person who disbelieves or lacks belief in the existence of God or Gods.
 * Even though I'm an atheist, i Still wear my yarmulke as it keeps my brain warm.
 * You can still believe in ghosts and be an atheist.
 
-LOQUACITY
+---------------------------
+
+6.LOQUACITY
 #########
 the quality of talking a great deal; talkativeness.
 "he was renowned for loquacity"
@@ -81,7 +91,9 @@ the quality of talking a great deal; talkativeness.
 * In Paris, Dinah conquered by silence, as at Sancerre she had conquerred by loquacity.
 * And Jim's silince irritated them far more than Arthur Freet's loquacity.
 
-Glib
+---------------------------
+
+7.Glib
 ####
 (of words or a speaker) fluent but insincere and shallow.
 "the glib phrases soon roll off the tongue"
@@ -91,7 +103,9 @@ Glib
 * No one was convinced by his glib answers/explanations.
 * All of those glib egotistical talk show hosts annoy me.
 
-INCORRIGIBLE
+---------------------------
+
+8.INCORRIGIBLE
 ############
 (of a person or their behaviour) not able to be changed or reformed.
 "she's an incorrigible flirt"
@@ -101,7 +115,9 @@ INCORRIGIBLE
 * Most of them are incorrigible, and hated by others.
 * We see the main character's transformation from innocent, Hello-Kitty kid to corrupted, drug-using, sex-having, shoplifting incorrigible.
 
-OCULAR
+---------------------------
+
+9.OCULAR
 ######
 of or connected with the eyes or vision.
 "ocular trauma"
@@ -111,7 +127,9 @@ of or connected with the eyes or vision.
 * Patients with inflammatory eye diseases are at risk for ocular vaccinial diseases, including blepharitis, iritis and keratitis.
 * Before ocular surgery, phenylephrine is used with atropine to dialate the pupil.
 
-DEMOGAUGE
+---------------------------
+
+10.DEMOGAUGE
 #########
 a political leader who seeks support by appealing to popular desires and prejudices rather than by using rational argument.
 "the Senator was a gifted demagogue, with particular skill in manipulating the press"
