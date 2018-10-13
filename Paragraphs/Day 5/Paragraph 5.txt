@@ -1,0 +1,7 @@
+Voltage
+-------
+Volatage can be defined as the amount of potential energy between two points in a circuit. The charge at one point is more than another. The  differnce in charge between the two points is called voltage, which, technically is the potential difference between the points that will impart one Joule of energy per Coulumb of charge. Voltage is measured in terms of volts. It is named after the Italian physicist Alessandro Volta who is considered to invent first battery.   
+
+Voltage
+-------
+We define Voltage as the amount of potential energy between two points on a circuit. One point has more charge than another. The difference in charge between the two points is called voltage. It is measured in volts, which, technically is the potential difference between the two points that will impart One Joule of energy per Coloum of charge that passes through it. The unit of voltage is volt, it is named after the italian physiscist Alessandro Volta, who invented what is considered to be first chemical battery. Voltage is represented in equations and schematics by v.   
