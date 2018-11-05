@@ -1,0 +1,143 @@
+1. What is a class?
+
+A class is a userdefined blueprint or prototype from which objects are created. It represents the set of properties or methods that are common to all objects of one type. 
+
+A class can be defined as a template that describes the behaviour/state that the object of its type support.
+
+2. What is an Object?
+
+Object is an instance of a class. Objects have state and behavior.
+
+3.What are access modifiers?
+
+Java provides access control through public, private and protected access modifier keywords. When none of these are used it is called default access modifier.
+ 
+private - It is restricted to same class only.
+protected - It is restricted to same package and subclass in different package through inheritance.
+default - It is restricted to same package only.
+public - It can be accessed anywhere.
+
+4. What is static keyword?
+
+Static keyword can be used with class level variables to make it global i.e., all the objects will share the same variable.
+
+Static keyword can be used with method also. A static method can access only static variables of a class and invoke only static methods of a class.
+
+5. What is a static block?
+
+Static block is used for initializing the static variables. This block gets executed when the class is loaded in the memory. A class can have multiple Static blocks, which will execute in the same sequence in which they have been written into the program.     
+
+6. What is a Instance Initializer Block?
+
+Instance Initializer block is used to initialize the instance data member. It runs each time when object of the class is created.
+
+7. What is a constructor?
+
+Every class has a constructor. The purpose of constructor is to initialize the object of a class. Constructor gets invoked when a new object is created.  If we do not explicitly write a constructor for a class, java compiler builds a default constructor for that class. 
+
+8. What is an interface?
+
+An interface is a blueprint of a class. It has static constants and abstract methods.
+
+The interface in java is a mechanism to achieve abstraction. There can be only abstract methods in java interface not method body. It is used to achieve abstraction and multiple inheritance in java.
+
+Java interface also represents Is-A relationship. It cannot be instantiated just like abstract class.
+
+9. What is an abstract class?
+
+Abstract classes are used in java to create a class with some default method implementation for subclasses. An abstract class can have abstract method without body and it can have methods with implementation also.
+
+Abstract keyword is used to create a abstract class. Abstract classes can't be instantiated and mostly used to provide base for sub-classes to extend and implement the abstract methods and override or use the implemented methods in abstract class.
+
+10. What is the difference between abstract class and interface?
+
+* Abstract classes can have method implementations whereas interfaces can't.
+* A class can extend only one abstract class but it can implement multiple interfaces.
+* We can run abstract class if it has main() method whereas we can't run an interface.
+
+11. What are the uses of interface?
+
+* To achieve abstraction.
+* To achieve functionality of multiple inheritance.
+* To achieve loose coupling.
+
+12. What is marker interface?
+
+A marker interface is an empty interface without any method but used to force some functionality in implementing classes by java. Ex: Serializable, Cloneable.
+
+13. What are Wrapper Classes?
+
+Wrapper classes are object represntation of eight primitive types in java. All the wrapper classes in java are immutable and final. Java 5 autoboxing and auto unboxing allows easy conversion between primitive types and their corresponding wrapper classes.
+
+14. What is a local variable?
+
+Variables defined inside methods, constructors or blocks are called local variables. The variable will be declared and initialized within the method and it will be destroyed when the method has completed.
+
+15. What is a instance variable?
+
+Instance variables are variables in a class but outside any method. These variables are instantiated when the class is loaded.
+
+16. What is a class variable?
+
+class variables are variables declared with in a class, outside any method, with the static keyword.
+
+17. What does Super keyword do?
+
+Super keyword can be used to access super class method when you have overriden the method in the child class.
+
+We can use super keyword to invoke super class constructor but in this case it should be first statement in constructor method.
+
+18. What is this keyword?
+
+* this can be used to refer current class instance variable.
+* this can be used to invoke current class method (implicitly)
+* this() can be used to invoke current class constructor.
+* this can be passed as an argument in the method call.
+* this can be passed as argument in the constructor call.
+* this can be used to return the current class instance from the method.  
+
+19. What is final keyword?
+
+Final keyword is used with class to make sure no other class can extend it, for example String class is final and we can't extend it.
+
+We can use final keyword with the methods to make sure child classes can't overide it.
+
+Final keyword can be used with variables to make sure that it can be assigned only once. However the state of the variable can be changed, for example we can assign a final variable to an object only once but the object variables can change later on.
+
+Java interface variables are by default final and static.
+
+20. What is finally and finalize()in java?
+
+Finally block is used with try-catch to ut the code that you want to get executed always, even if any exception is thrown by the try-catch block. Finally block is mostly used to release resources created in try block.
+
+Finalize() is a special method in object class that we can override in our classes. This method gets called by garbage collector when the object is getting garbage collected. This method is usually overriden to release system resources when object is garbage collected.
+
+21. What is overloading and overriding in java?
+
+When we have more than one method with same name in a single class but the arguments are different, then it is called as method overloading.
+
+Overriding concept comes in picture with inheritance when we have two methods with same signature one is parent class and in child class. We can use @override annotation in the child class overridden method to make sure if parent class method is changed, so as child class.
+
+22. What is break and continue statement?
+
+We can use break statement to terminate for, while or do-while loop. We can use break statement in switch statement to exit the switch case. We can use break with label to terminate the nested loops.
+
+The continue statement skips the current iteration of a for, while or do-while loop. We can use continue statement with label to skip the current iteration of outermost loop.
+
+23. What is garbage Collection? 
+
+Garbage collection is the rocess of looking at the heap memory identifying which objects are in use and which are not and deleting the unused objects. In java , the process of deallocating memory is handled automatically by the garbage collector.
+
+We can run the garbage collector with code  Runtime.getRuntime().gc() or use utility method  System.gc().
+
+24. Why is String class considered immutable?
+
+The String class is immutable, so that once it is created a string object cannot be changed. Since string is immutable it can safely be shared between many threads, which is considered very imortant for multithreading programming.
+
+25. What is an Exception?
+
+An exception is a problem that arises during the execution of a program. Exceptions are caught by handlers positioned along the threads method invocation stack.
+
+              
+   
+  

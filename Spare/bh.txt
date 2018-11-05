@@ -1,0 +1,26 @@
+1.What is a class?
+2.What is an object?
+3.What are access modifiers?
+4.What is static keyword?
+5.What is a static block?
+
+
+1a) A class is defined as userdefined template from which objects are created. It represents a set of properties or methods of an object.       
+A class can also be defined as template 
+
+2a) Object is an instance of a class. Objects have a state and behavior.
+
+3a) Java provides access control through public, protected and private keywords. If none of these keywords are used it is called default access modifier. 
+
+* If a variable or method is declared as private, it can be accessed only within the same class.
+* If a variable or method is declared as protected, it can be accessed only within the same package or a subclass of a class in another package.
+* If a variable or method is declared as default, it can be accessed within the same package only.
+* If a variable or method is declared as public, it can be accessed from anywhere within a application.
+
+4a) Static keyword is used for class level variables to make them global i.e., all the objects will share the same value.
+Static keyword can be used with methods also. A static method can access only static variables. A static method can invoke only static methods.  
+ 
+5a) Static blocks are used to initialize static variables. Static blocks gets executed when the class is loaded into the memory. There can be multiple static blocks in a class and they get executed in the sequence they are written in the program.
+
+
+  
